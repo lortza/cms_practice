@@ -81,7 +81,7 @@ This app will be a simple CMS where a user can create posts, pages, and events. 
   </tr>
   <tr>
     <td valign="top">content</td>
-    <td valign="top">>Let&#39;s create a user called &quot;admin&quot;</td>
+    <td valign="top">Let&#39;s create a user called &quot;admin&quot;</td>
     <td valign="top">Create 3 posts</td>
     <td valign="top"><ul>
       <li>Home</li>
@@ -108,4 +108,4 @@ I'm assuming you have postgres installed on your machine. I've created the base 
 3. `bundle`
 4. `rake db:create`
 5. fire up the `rails s`
-6. navigate to http://localhost:3000/
+6. navigate to [http://localhost:3000/](http://localhost:3000/)
